@@ -1,0 +1,43 @@
+body {
+	background-image: url('background.jpg');
+	background-repeat: no-repeat;
+    background-color: #fff;
+    color: #000;
+}
+h1 {
+	font-family: 'Times New Roman', times new roman;
+ margin: 10px 0;
+ font-size: 3em;
+ font-weight: bold;
+ line-height: 1.25;
+ text-align: center;
+ color: #000000;
+
+}
+h2 {
+	font-family: 'Garamond', garamond;
+	font-weight: bold;
+}
+h3 {
+	font-family: 'garamond', garamond;
+	font-weight: bold;
+}
+p { 
+	font-family: 'Palatino', serif;
+ margin: 10px 0;
+ font-size: 1.35em;
+ font-weight: normal;
+ line-height: 1.25;
+ text-align: center;
+ color: #000000;
+}
+.carousel-inner img {
+	align-content: center;
+    width: 50%;
+    height: 50%;
+    }
+ .jumbotron {
+      padding-top: 1%;
+      padding-bottom: 2%;
+    }  
+
